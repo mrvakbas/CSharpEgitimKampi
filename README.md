@@ -1,12 +1,12 @@
 ## ***C# Eğitim Kampı Projeleri*** 👩‍💻
 
-C# Eğitim Kampı Murat Yücedağ eğitmenliğinde Youtube'da bulunan tamamen ücretsiz eğitimdir. Bu repomda bulunan ise tamamladıgım ilk 8 videoluk proji içermektedir. Her proje, C# dilinin belirli kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu.
+C# Eğitim Kampı Murat Yücedağ eğitmenliğinde Youtube'da bulunan tamamen ücretsiz eğitimdir. Bu repomda bulunan ise tamamladıgım ilk 8 videoluk projeyi içermektedir. Her proje, C# dilinin belirli kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu.
 
 #### Bütün proje katmanlarını aşağıda detaylı şekilde düzenledim inceleyebilirsiniz ... 👇
 
 
 ### 📜 1. Proje "Merhaba Dünya Girişi !"
-Bu projede ilk giriş projemiz Console ekranına yazı yazdırma komutu olan console.writeline ile console ekranına veri yazdırdık.
+Bu projede ilk giriş projemiz Console ekranına yazı yazdırma komutu olan Console.writeline() ile console ekranına veri yazdırdık.
 ***
 
 ### 📜 2. Proje "Değişkenler --> String, Int, Double"
@@ -18,14 +18,14 @@ Bu projede ıf-else karar yapıları ile değişik koşullara göre çıktı alm
 ***
 
 ### 📜 4. Proje "Döngüler --> For-While"
-Bu proje döngüler ile tekrarlayan işlemleri daha kısa sürede ve daha optimize yaklaşımlarlar tamamlamayı ögrendik.
+Bu proje döngüler ile tekrarlayan işlemleri daha kısa sürede ve daha optimize yaklaşımlar ile tamamlamayı ögrendik.
 ***
 
 ### 📜 5. Proje "Döngüler ile Uygulama"
 Bu projede döngülerle ile pratik yaptık.
 ***
 
-### 📜 6. Proje "Diziler -- Arrays"
+### 📜 6. Proje "Diziler --> Arrays"
 Bu projede farklı türde verileri diziler ile işlemeyi ögrendik.
 ***
 
